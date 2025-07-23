@@ -1,0 +1,7 @@
+debug: true
+general:
+  kafka-topic: test-topic
+spring:
+  kafka:
+    consumer:
+      group-id: forage-midas
